@@ -11,7 +11,7 @@ static const Block blocks[] = {
 	 {"",	"cpu",		10,	13},
 	/* {"",	"moonphase",	18000,	5},  */
 	{"",	"weather",	18000,	5},
-	{"",	"mailbox",	180,	12},
+	/* {"",	"mailbox",	180,	12}, */
 	/* {"",	"nettraf",	1,	16}, */
 	{"",	"volume",	0,	10},
 	{"",	"battery | tr \'\n\' \' \'",	5,	3},

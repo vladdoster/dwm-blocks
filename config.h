@@ -12,12 +12,11 @@ static const Block blocks[] = {
 	/* {"",	"moonphase",	18000,	5},  */
 	{"",	"weather",	18000,	5},
 	/* {"",	"mailbox",	180,	12}, */
-	/* {"",	"nettraf",	1,	16}, */
+	{"",	"nettraf",	1,	16},
+	{"",	"internet",	5,	4},
 	{"",	"volume",	0,	10},
 	{"",	"battery | tr \'\n\' \' \'",	5,	3},
 	{"",	"clock",	60,	1},
-	{"",	"internet",	5,	4},
-	/* {"",	"help-icon",	0,	15}, */
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.

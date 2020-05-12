@@ -1,5 +1,5 @@
 static const Block blocks[] = {
-	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
+	/*Icon*/     /*Command*/      /*Update Interval*/     /*Update Signal*/
 	{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	{"",	"pacpackages",			0,	8},
 	{"",	"network_traffic",		1,	16},

@@ -5,14 +5,12 @@
      width="200" 
      height="100" />
 
-#### Personal build of the DWMblocks (status bar for DWM)
+#### Personal build of the DWMblocks (status bar for DWM written in C)
 This is suckless, the source code is the documentation! Check out [config.h](config.h).
 
 </div>
 
-# DWMblocks
-Modular status bar for dwm written in C.
-
+## How it works
 The statusbar is made from text output using [commandline programs found in my dotfiles](https://github.com/vladdoster/dotfiles/tree/master/.local/bin/statusbar).
 
 ## Patchs

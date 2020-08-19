@@ -11,7 +11,7 @@ static const Block blocks[] = {
   {"", "cat /tmp/recordingicon 2>/dev/null",  0,        9},
   {"", "upgradeable_pkgs",                    0,        8},
   {"", "network_usage",                       1,       16},
-  {"", "internet_connection",                 5,        4},
+//  {"", "internet_connection",                 5,        4},
   {"", "ram_usage",                           10,      14},
   {"", "cpu_temperature",                     10,      13},
   {"", "cpu_per_core_usage",                  2,       13},

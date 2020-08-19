@@ -16,7 +16,7 @@ static const Block blocks[] = {
   {"", "cpu_temperature",                     10,      13},
   {"", "cpu_per_core_usage",                  2,       13},
   {"", "battery | tr \'\n\' \' \'",           5,        3},
-  {"", "volume",                              0,       10},
+ // {"", "volume",                              0,       10},
   {"", "clock",                               60,       1},
 };
 
